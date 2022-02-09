@@ -1,7 +1,6 @@
 # Higgs-Boson-Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1uEbObQUs9aM2_ODeMF6-jK-sRMaeJPmW?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uEbObQUs9aM2_ODeMF6-jK-sRMaeJPmW?usp=sharing)
 
 **Problem statement**: The discovery of the Higgs boson by CMS and ATLAS Collaborations was announced at CERN in 2012. In this work, we focus on the potential of Machine Learning and Deep Learning in detecting potential Higgs signal from one of the background processes that mimics it.
 
